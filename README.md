@@ -262,8 +262,8 @@ $
 
 ## Authors & Copyrights
 
-* Ezeoha Juliet Chinyere <[ezeohajuliet](https://github.com/ezeohajuliet)>
-* Kelechi Martins Ikechuwu <[KcMartins](https://github.com/KcMartins)>
+* Bodede olatunde michael <[michael](https://github.com/michael)>
+* josephine nkeiruka nwankwo <[josystephens15](https://github.com/josystephens15)>
 
 ## More information
 
