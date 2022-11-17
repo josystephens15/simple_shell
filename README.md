@@ -262,7 +262,7 @@ $
 
 ## Authors & Copyrights
 
-* Bodede olatunde michael <[michael](https://github.com/michael)>
+* Bodede olatunde michael <[michael7746](https://github.com/michael7746)>
 * josephine nkeiruka nwankwo <[josystephens15](https://github.com/josystephens15)>
 
 ## More information
